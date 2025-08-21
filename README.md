@@ -1,7 +1,7 @@
 # 🚀 YOLO Object Detection Streamlit App  
 
 <p align="center">
-  <img src="https://github.com/ultralytics/assets/raw/main/yolo-examples.png" width="600"/>
+  <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*HnoThhfk5cVkzk6uPv95-Q.png" width="600"/>
 </p>
 
 ## 🎯 Overview  
@@ -17,17 +17,17 @@ It allows you to:
 
 ### 📌 Home Page  
 <p align="center">
-  <img src="https://i.ibb.co/q57JKjX/demo1.png" width="600"/>
+  <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*mhfTqnb73CJ-J_louUGWCw.png" width="600"/>
 </p>
 
 ### 📌 Video Detection  
 <p align="center">
-  <img src="https://i.ibb.co/99ZnN2h/demo2.png" width="600"/>
+  <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*PIJnzs0sD2xnG8FanfnCvg.png" width="600"/>
 </p>
 
 ### 📌 Live Camera Detection  
 <p align="center">
-  <img src="https://i.ibb.co/mFXHgmc/demo3.png" width="600"/>
+  <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*mhfTqnb73CJ-J_louUGWCw.png" width="600"/>
 </p>
 
 ---
